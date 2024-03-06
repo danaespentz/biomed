@@ -7,7 +7,7 @@ This is a project for the Biomedical Technology Laboratory in NTUA Electrical an
 
 ## Medical Image Processing with Python
 
-Pre-processing stage of images [depicting dermatological diseases](https://github.com/danaespentz/biomed/blob/main/lab.ipynb.txt): All the images contain some form of disease, but the shape is indefinite. With image segmentation in some way, precisely identifying the boundaries of the pathology, I try to extract statistical and morphological features that can be used for diagnosing new images.
+Pre-processing stage of images [depicting dermatological diseases](https://github.com/danaespentz/biomed/blob/main/lab.ipynb): All the images contain some form of disease, but the shape is indefinite. With image segmentation in some way, precisely identifying the boundaries of the pathology, I try to extract statistical and morphological features that can be used for diagnosing new images.
 
 
 ## Big Data in Healthcare
